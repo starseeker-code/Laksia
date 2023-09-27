@@ -56,6 +56,13 @@
   font-style: italic;
 }
 
+.work__project-description3 {
+  font-size: calc(var(--size-sm)/1.2);
+  color: var(--clr-slate600);
+  margin: 0.6rem 0;
+  padding: 0;
+}
+
 .work__project-btn {
   font-size: var(--size-sm);
 }
